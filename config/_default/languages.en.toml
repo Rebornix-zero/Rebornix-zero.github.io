@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Rebornix"
+title = "Haocheng Wang"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -12,7 +12,7 @@ title = "Rebornix"
   # description = "My awesome website"
 
 [params.author]
-  name = "Rebornix"
+  name = "Haocheng Wang"
   image = "img/avatar.jpg"
   headline = "Nice to meet you!"
   bio = "Die and live later"

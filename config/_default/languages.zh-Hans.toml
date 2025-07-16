@@ -3,7 +3,7 @@ languageName = "简体中文"
 languageDirection = "ltr"
 weight = 1
 
-title = "Rebornix"
+title = "王浩丞"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -12,7 +12,7 @@ title = "Rebornix"
   # description = "My awesome website"
 
 [params.author]
-  name = "Rebornix"
+  name = "王浩丞"
   image = "img/avatar.jpg"
   headline = "欢迎！"
   bio = "置之死地而后生"
