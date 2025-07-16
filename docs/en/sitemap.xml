@@ -4,23 +4,6 @@
   
     
       <url>
-            <loc>http://rebornix0.com/posts/</loc>
-            <lastmod>2025-02-07T00:00:00+00:00</lastmod>
-            <xhtml:link
-              rel="alternate"
-              hreflang="zh-hans"
-              href="http://rebornix0.com/zh-hans/posts/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="http://rebornix0.com/posts/"
-              />
-          </url>
-    
-  
-    
-      <url>
             <loc>http://rebornix0.com/</loc>
             <lastmod>2025-02-07T00:00:00+00:00</lastmod>
             <xhtml:link
@@ -32,6 +15,23 @@
               rel="alternate"
               hreflang="en"
               href="http://rebornix0.com/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rebornix0.com/posts/</loc>
+            <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="http://rebornix0.com/zh-hans/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://rebornix0.com/posts/"
               />
           </url>
     
