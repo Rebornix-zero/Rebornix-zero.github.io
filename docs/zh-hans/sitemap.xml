@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://rebornix0.com/zh-hans/posts/</loc>
+            <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://rebornix0.com/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="http://rebornix0.com/zh-hans/posts/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://rebornix0.com/zh-hans/</loc>
+            <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="http://rebornix0.com/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="zh-hans"
+              href="http://rebornix0.com/zh-hans/"
+              />
+          </url>
+    
+  
+    
+  
+    
+  
+</urlset>
